@@ -1,0 +1,3 @@
+id: "20200604093929.66612646"
+project-name: vx-hello
+stack: image-registry.openshift-image-registry.svc:5000/kabanero/vert-x:0.1
